@@ -463,6 +463,15 @@ body {
 }
 
 /* unrounding.css */
+  .bannerImage_f37cb1 { img { /* Server image */
+  border-radius: 15px;
+}
+  }
+
+  .animatedContainer_f37cb1 { /* Server image */
+  border-radius: 15px;
+}
+
 @property --unrounding {
     syntax: 'off | on';
     inherits: false;
@@ -544,7 +553,6 @@ body {
     .slider__87bf1 > rect[rx='10'] {
         rx: 0 !important;
     }
-
     ::-webkit-scrollbar-thumb {
         border-radius: 0 !important;
     }
