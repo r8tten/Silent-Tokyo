@@ -164,4 +164,8 @@ body {
     .openOnHover__0f2e8.container__0f2e8{
         display: none;
     }
+    /* Call Background */
+    .visual-refresh .root_bfe55a {
+    background-color: var(--bg-base-primary);
+    }  
 }
