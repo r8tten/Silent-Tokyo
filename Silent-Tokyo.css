@@ -11,7 +11,8 @@
 */
 
 /* import theme modules */
-@import url('https://refact0r.github.io/system24/build/system24.css');
+/*@import url('https://refact0r.github.io/system24/build/system24.css'); */ /* uncomment to use system24 base theme */
+@import url('https://github.com/r8tten/Silent-Tokyo/blob/main/System24/system24.css');
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 
 body {
@@ -164,8 +165,4 @@ body {
     .openOnHover__0f2e8.container__0f2e8{
         display: none;
     }
-    /* Call Background */
-    .visual-refresh .root_bfe55a {
-    background-color: var(--bg-base-primary);
-    }  
 }
