@@ -557,3 +557,9 @@ body {
         border-radius: 0 !important;
     }
 }
+
+/* Server Gradient background size */
+.container__5aa3a {
+  transform: scale(1.02);
+}
+
