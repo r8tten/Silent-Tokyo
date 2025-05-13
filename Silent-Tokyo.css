@@ -12,7 +12,7 @@
 
 /* import theme modules */
 /*@import url('https://refact0r.github.io/system24/build/system24.css'); */ /* uncomment to use system24 base theme */
-@import url('https://github.com/r8tten/Silent-Tokyo/blob/main/System24/system24.css');
+@import url('https://raw.githubusercontent.com/r8tten/Silent-Tokyo/refs/heads/main/System24/system24.css');
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 
 body {
