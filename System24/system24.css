@@ -557,15 +557,3 @@ body {
         border-radius: 0 !important;
     }
 }
-
-/* Sizing fixes until source css is fixed */
-
-/* Server Gradient background size */
-.container__5aa3a {
-  transform: scale(1.02);
-}
-
-/* VC image alignment fix */
-.root_c8dbe9 {
-  height:auto;
-}
