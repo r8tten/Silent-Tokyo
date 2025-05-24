@@ -2,7 +2,7 @@
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 @import url('https://fonts.cdnfonts.com/css/asciid');
-@import url('https://github.com/r8tten/Silent-Tokyo/blob/4413c0ef0d7bb705359ad4a6f177bc80b45fe84c/System24/fixes.css');
+@import url('https://raw.githubusercontent.com/r8tten/Silent-Tokyo/4413c0ef0d7bb705359ad4a6f177bc80b45fe84c/System24/fixes.css');
 
 body {
     /* font, change to '' for default discord font */
