@@ -13,7 +13,7 @@
 /*@import url('https://refact0r.github.io/system24/build/system24.css'); */ /* uncomment to use system24 base theme */
 @import url('https://raw.githubusercontent.com/r8tten/Silent-Tokyo/refs/heads/main/System24/system24.css');
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
-@import url();
+@import url('https://raw.githubusercontent.com/r8tten/Silent-Tokyo/refs/heads/main/System24/fixes.css');
 
 body {
     /* font, change to '' for default discord font */
